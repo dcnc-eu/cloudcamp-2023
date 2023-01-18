@@ -45,7 +45,7 @@ dazu beitragen, dass das Programm möglichst spannend für dich wird.
   Wenn wir bei einem Thema noch ganz am Anfang stehen, ist es oft eine gute Idee in einem Brainstorming die
   Schwarm-Intelligenz der Cloud-Community zu nutzen um verschiedene Ansätze aufzuzeigen.
 
-- Demo https://github.com/dcnc-eu/cloudcamp-2023/labels/demo 
+- Demo https://github.com/dcnc-eu/cloudcamp-2023/labels/demo  
   Manche Themen lassen sich am besten teilen, indem man sie anderen zeigt.
   Bei einer Demo präsentiertest du dein Wissen am lebenden Objekt. 
 
