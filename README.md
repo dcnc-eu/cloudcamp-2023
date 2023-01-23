@@ -58,4 +58,4 @@ dazu beitragen, dass das Programm möglichst spannend für Dich wird.
   Auch wenn ein Thema in keine der obigen Kategorien passt, hat es auf dem Barcamp sehr wohl Platz.
   
 Ein Barcamp ist nicht grün oder blau oder rot, es ist bunt.
-Wenn Du Dir mehrere Formate für Deinen Vorschlag vorstellen kannst, oder Dir für bestehende Vorschläge andere Formate wünscht, nutze gern die ganze Farbpalette an Labels.
+Wenn Du Dir mehrere Formate für Deinen Vorschlag vorstellen kannst, oder Dir für bestehende Vorschläge andere Formate wünscht, nutze gern die ganze Farbpalette an Formaten.
